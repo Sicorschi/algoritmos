@@ -1,0 +1,22 @@
+{
+  "name": "ejemplo1",
+  "version": "1.0.0",
+  "description": "Implementacion del entorno de desarrollo en la maquina local para levantar un servidor",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sicorschi/algoritmos.git"
+  },
+  "author": "IS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sicorschi/algoritmos/issues"
+  },
+  "homepage": "https://github.com/Sicorschi/algoritmos#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

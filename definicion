@@ -1,0 +1,19 @@
+Un algoritmo se puede definir como una secuencia de pasos, steps o instrucciones
+que una maquina realiza con el fin de llegar a un objetivo o resultado.
+El objetivo del algoritmo siempre sera llegar a un resultado o estado.
+Sus caracteristicas mas importantes son:
+  finito:
+    La secuencia de pasos o instrucciones tiene que llegar a un estado final o resultado.
+  veloz:
+    El algoritmo tiene que ser de naturaleza rapida, es decir, el procesamiento (en el que se basa el algoritmo)
+    tiene que ejecutarse en el menor tiempo posible.
+  efectivo:
+    esta propiedad se centra sobretodo en el tamaño del algoritmo y lo ligero que puede llegar a ser.
+    Lo mas importante es intentar escribir nuestro algoritmo en el menor numero de lineas posibles.
+  preciso:
+    Esta propiedad hace alusion a la naturaleza univoca del algoritmo. Un algoritmo no puede llegara dos resultados.
+    La conclusion de todas las instrucciones tiene que ser unica, no puede haber dos posibles resultados.
+
+Pero la caracteristica mas importante del algoritmo es la libertad que hay para escribir un algoritmo, es decir,
+las diferentes maneras que hay para llegar a un mismo objetivo. Se ha establecido que el objetivo tiene que ser unico,
+pero no se menciono de cuantos caminos puede haber hasta llegar al objetivo, no hay dos codigos iguales.

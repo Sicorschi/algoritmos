@@ -1,0 +1,11 @@
+A continuacion se especifican los pasos necesarios para realizar el Ejemplo #1:
+  #DESCRIPCION: Implementacion del entorno de desarrollo en la maquina local para levantar un servidor.
+  #COMANDOS TERMINAL:
+    >> mkdir nombre_carpeta
+    >> cd nombre_carpeta
+    >> npm init
+      > Generar package.json
+    >> npm i -S express
+      > Generar node_modules
+    >> app.js
+    >> node app.js
