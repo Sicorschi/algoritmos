@@ -1,0 +1,13 @@
+En este fichero se pretende dar una vision minimalista a los atributos basicos de los algoritmos.
+Los atributos basicos son los elementos esenciales que conforman los algoritmos, los flujos y el resultado.
+Estos atributos basicos son:
+  #1 Condicionales:
+    atributo que bifurca el flujo en funcion del valor de la entrada.
+  #2 Ciclos:
+    ##2 ciclo while,
+    ##2 ciclo do while,
+    ##2 ciclo for.
+  #3 Breakpoint:
+    atributo para salir de un ciclo.
+
+Nota: Se describe en el fichero atributos.js las estructuras basicas de estos atributos basicos.
